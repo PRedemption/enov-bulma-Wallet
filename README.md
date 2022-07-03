@@ -57,8 +57,6 @@ npm run build
 
 Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/enov-bulma/)
-
 <!-- reporting issue -->
 ## Reporting Issues
 
